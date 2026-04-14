@@ -16,7 +16,7 @@ const technologies: TechCategory[] = [
   },
   {
     title: 'AI & ML',
-    items: ['TensorFlow', 'PyTorch', 'LangChain', 'OpenAI', 'Hugging Face', 'RAG'],
+    items: ['TensorFlow', 'PyTorch', 'LangChain', 'OpenAI', 'Hugging Face', 'RAG' ,'Agentic AI','Generative AI'],
   },
   {
     title: 'Frontend',

@@ -20,7 +20,7 @@ const technologies: TechCategory[] = [
   },
   {
     title: 'Frontend',
-    items: ['React', 'Next.js', 'Tailwind CSS', 'Redux', 'Vite'],
+    items: ['js','React', 'Next.js', 'Tailwind CSS', 'Redux', 'Vite'],
   },
   {
     title: 'Cloud & DevOps',
